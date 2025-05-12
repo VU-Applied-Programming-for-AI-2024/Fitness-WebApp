@@ -1,4 +1,4 @@
-# Project Title
+# MyFItnessAI
 ![image](https://github.com/VU-Applied-Programming-for-AI-2024/Group-15/assets/156012070/cc0030de-bc76-4e36-9216-1a8cd9b9c43c)
 
 ## Brief description of the project
